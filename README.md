@@ -38,9 +38,7 @@ This project uses the **Open-Meteo API** to retrieve:
 * Wind speed
 * Rainfall
 * Weather conditions
-
-No API key is required.
-
+  
 ## ⚙️ How It Works
 
 1. Enter a city name in the search box.
